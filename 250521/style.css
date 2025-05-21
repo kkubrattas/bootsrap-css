@@ -1,0 +1,17 @@
+
+#carouselExampleAutoplaying .carousel-indicators [data-bs-target] {
+    width: 30px !important;
+    height: 10px !important;
+    background-color: transparent !important;
+    border: 3px solid #ffffff !important;
+    margin: 5px !important;
+    border-radius: 2px !important;
+    opacity: 1 !important;
+    transition: background-color 0.3s ease !important;
+}
+  
+#carouselExampleAutoplaying .carousel-indicators .active {
+    background-color: #faa4a4 !important;
+    border-color: #ffffff !important;
+}
+  
